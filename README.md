@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Corentin Kittel</h1>
 <h3 align="center">a passionate full-stack developer with a keen appreciation for UX/UI design.</h3>
 
-- 👨‍💻 All of my projects are available at [corentinkittel.fr](corentinkittel.fr)
+- 👨‍💻 All of my projects are available at [corentinkittel.fr](https://www.corentinkittel.fr/en/work)
 
 - 📫 **contact@corentinkittel.fr**
 
