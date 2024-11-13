@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [corentinkittel.fr](corentinkittel.fr)
 
-- 📫 How to reach me **contact@corentinkittel.fr**
+- 📫 **contact@corentinkittel.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
