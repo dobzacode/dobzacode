@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Corentin Kittel</h1>
 <h3 align="center">a passionate full-stack developer with a keen appreciation for UX/UI design.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dobzacode" alt="dobzacode" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [corentinkittel.fr](corentinkittel.fr)
 
 - 📫 **contact@corentinkittel.fr**
